@@ -1,0 +1,48 @@
+{ "facturas":[
+    
+    {
+        "Id": "001",
+        "CC": "1000000",
+        "Nombre": "Eli henao",
+        "valor a pagar": 10000,
+        "max": 5,
+        "min": 1
+
+
+    },
+
+{
+        "Id": "002",
+        "CC": "200000",
+        "Nombre": "Juan Vargas",
+        "valor a pagar": 20000,
+        "max": 5,
+        "min": 1
+
+
+    },
+    
+    {
+        "Id": "003",
+        "CC": "3000000",
+        "Nombre": "Dani vega",
+        "valor a pagar": 30000,
+        "max": 5,
+        "min": 1
+
+
+    },
+    {
+        "Id": "004",
+        "CC": "400000",
+        "Nombre": "Maria Jime",
+        "valor a pagar": 40000,
+        "max": 5,
+        "min": 1
+
+
+    }
+    
+
+   ]
+}
