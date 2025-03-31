@@ -2,7 +2,7 @@
   "facturas": [
     {
       "id": "001",
-      "name": "eliana",
+      "name": "eli henao",
        "cc": "1035555555",
       "valor": 10000,
        "max": 1,
@@ -11,18 +11,18 @@
     },
       {
       "id": "002",
-      "name": "eliana",
+      "name": "eli henao",
        "cc": "1035555555",
-      "valor": 10000,
+      "valor": 20000,
        "max": 1,
       "min": 2
         
     },
       {
       "id": "003",
-      "name": "eliana",
+      "name": "eli henao",
        "cc": "1035555555",
-      "valor": 10000,
+      "valor": 30000,
        "max": 1,
       "min": 2
         
